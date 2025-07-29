@@ -1,0 +1,20 @@
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\GamingLobbyServer.exe.config
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\GamingLobbyServer.exe
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\GamingLobbyServer.pdb
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\LobbyCommon.dll
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\LobbyCommon.pdb
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLobbyServer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLobbyServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLo.5E69A757.Up2Date
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLobbyServer.exe
+C:\Users\User\Documents\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLobbyServer.pdb
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\GamingLobbyServer.exe.config
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\GamingLobbyServer.exe
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\GamingLobbyServer.pdb
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\LobbyCommon.dll
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\bin\Debug\LobbyCommon.pdb
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLobbyServer.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLobbyServer.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLo.5E69A757.Up2Date
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLobbyServer.exe
+C:\Users\hesar\OneDrive\Desktop\DC(PART A)_20928386\Distributed Computing Assignment Final\MortalKombatLobby\GamingLobbyServer\obj\Debug\GamingLobbyServer.pdb

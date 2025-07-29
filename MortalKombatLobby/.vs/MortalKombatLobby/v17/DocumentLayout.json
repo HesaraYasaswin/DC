@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{885C5142-1F7C-4BA0-B427-7FF2A9F3B7D5}|LobbyCommon\\LobbyCommon.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc(part a)_20928386\\distributed computing assignment final\\mortalkombatlobby\\lobbycommon\\lobbycommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885C5142-1F7C-4BA0-B427-7FF2A9F3B7D5}|LobbyCommon\\LobbyCommon.csproj|solutionrelative:lobbycommon\\lobbycommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\privatemessagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\privatemessagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\privatemessagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\privatemessagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\lobbywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\lobbywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF74E04-FE0D-4BF1-BC65-71DA80073F5C}|GamingLobbyServer\\GamingLobbyServer.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\gaminglobbyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF74E04-FE0D-4BF1-BC65-71DA80073F5C}|GamingLobbyServer\\GamingLobbyServer.csproj|solutionrelative:gaminglobbyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\lobbywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\lobbywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\lobbyselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\lobbyselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\lobbyselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\lobbyselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF74E04-FE0D-4BF1-BC65-71DA80073F5C}|GamingLobbyServer\\GamingLobbyServer.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\gaminglobbyserver\\gaminglobbyserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF74E04-FE0D-4BF1-BC65-71DA80073F5C}|GamingLobbyServer\\GamingLobbyServer.csproj|solutionrelative:gaminglobbyserver\\gaminglobbyserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\assets\\mk_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\assets\\mk_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\mortalkombatlobbyclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD078A76-52B5-4CCD-9020-7D4A8CAE310E}|MortalKombatLobbyClient\\MortalKombatLobbyClient.csproj|solutionrelative:mortalkombatlobbyclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LobbySelectionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\LobbySelectionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\LobbySelectionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\LobbySelectionWindow.xaml.cs",
+              "RelativeToolTip": "MortalKombatLobbyClient\\LobbySelectionWindow.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:49:41.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LobbyWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\LobbyWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\LobbyWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\LobbyWindow.xaml.cs",
+              "RelativeToolTip": "MortalKombatLobbyClient\\LobbyWindow.xaml.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAqwHkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:50:37.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MortalKombatLobbyClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:33:41.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrivateMessageWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\PrivateMessageWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\PrivateMessageWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\PrivateMessageWindow.xaml.cs",
+              "RelativeToolTip": "MortalKombatLobbyClient\\PrivateMessageWindow.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:51:28.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GamingLobbyServer.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\GamingLobbyServer\\GamingLobbyServer.cs",
+              "RelativeDocumentMoniker": "GamingLobbyServer\\GamingLobbyServer.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\GamingLobbyServer\\GamingLobbyServer.cs",
+              "RelativeToolTip": "GamingLobbyServer\\GamingLobbyServer.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAmwJ4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:27:01.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LobbyCommon.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\LobbyCommon\\LobbyCommon.cs",
+              "RelativeDocumentMoniker": "LobbyCommon\\LobbyCommon.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\LobbyCommon\\LobbyCommon.cs",
+              "RelativeToolTip": "LobbyCommon\\LobbyCommon.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:11:49.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LobbySelectionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\LobbySelectionWindow.xaml",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\LobbySelectionWindow.xaml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\LobbySelectionWindow.xaml",
+              "RelativeToolTip": "MortalKombatLobbyClient\\LobbySelectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T09:49:13.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrivateMessageWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\PrivateMessageWindow.xaml",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\PrivateMessageWindow.xaml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\PrivateMessageWindow.xaml",
+              "RelativeToolTip": "MortalKombatLobbyClient\\PrivateMessageWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T16:23:13.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LobbyWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\LobbyWindow.xaml",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\LobbyWindow.xaml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\LobbyWindow.xaml",
+              "RelativeToolTip": "MortalKombatLobbyClient\\LobbyWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T09:50:09.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\MainWindow.xaml",
+              "RelativeToolTip": "MortalKombatLobbyClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T09:33:41.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\App.xaml",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\App.xaml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\App.xaml",
+              "RelativeToolTip": "MortalKombatLobbyClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T15:40:03.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\GamingLobbyServer\\Program.cs",
+              "RelativeDocumentMoniker": "GamingLobbyServer\\Program.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\GamingLobbyServer\\Program.cs",
+              "RelativeToolTip": "GamingLobbyServer\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:25:44.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mk_logo.png - PNG [2000x1125, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC(PART A)_20928386\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\Assets\\mk_logo.png",
+              "RelativeDocumentMoniker": "MortalKombatLobbyClient\\Assets\\mk_logo.png",
+              "ToolTip": "C:\\Users\\User\\Documents\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\Assets\\mk_logo.png - PNG [2000x1125, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\User\\Documents\\Distributed Computing Assignment Final\\MortalKombatLobby\\MortalKombatLobbyClient\\Assets\\mk_logo.png - PNG [2000x1125, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T09:44:08.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

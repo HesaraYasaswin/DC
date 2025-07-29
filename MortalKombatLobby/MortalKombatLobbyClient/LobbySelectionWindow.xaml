@@ -1,0 +1,20 @@
+﻿<Window x:Class="MortalKombatLobbyClient.LobbySelectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MortalKombatLobbyClient"
+        mc:Ignorable="d"
+        Title="Mortal Kombat Lobby - Select Lobby" Height="500" Width="800" Background="Black"
+        Closed="Window_Closed">
+    
+    <Grid>
+        <TextBlock Text="SELECT OT CREATE A LOBBY" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0" FontSize="24" Foreground="White" FontWeight="Bold" />
+        <ListBox Name="LobbiesListBox" Margin="20,80,20,120" Background="DarkGray" Foreground="White" FontSize="16"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,40">
+            <Button Name="JoinLobbyButton" Content="Join Lobby" Width="120" Height="40" FontSize="16" Background="#FF6600" Foreground="White" Margin="10,0" Click="JoinLobbyButton_Click"/>
+            <Button Name="CreateLobbyButton" Content="Create Lobby" Width="120" Height="40" FontSize="16" Background="#FF6600" Foreground="White" Margin="10,0" Click="CreateLobbyButton_Click"/>
+            <Button Name="RefreshButton" Content="Refresh" Width="120" Height="40" FontSize="16" Background="#FFD700" Foreground="Black" Margin="10,0" Click="RefreshButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
