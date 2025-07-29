@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\data\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\data\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\services\\bankapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\services\\bankapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\admin\\securitylogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\admin\\securitylogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\admin\\adminprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\admin\\adminprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\shared\\_adminsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\shared\\_adminsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\admin\\transactionmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\admin\\transactionmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\wwwroot\\js\\fetchdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\wwwroot\\js\\fetchdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\shared\\_usersidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\shared\\_usersidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\user\\moneytransfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\user\\moneytransfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\user\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\user\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\user\\transactionhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\user\\transactionhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\bankwebservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\bankwebservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\views\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\views\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A89DB77-3E33-479D-9DD0-BC1CC011308F}|BankWebApp\\BankWebApp.csproj|solutionrelative:bankwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|c:\\users\\hesar\\onedrive\\desktop\\dc_a2(partb)_20928386\\assignment2_part_a\\bankwebservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124CCBA-FF47-43C7-A4C4-2ABB96DB87F1}|BankWebService\\BankWebService.csproj|solutionrelative:bankwebservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BankWebApp\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAAAAgBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:25:43.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Models\\User.cs",
+              "RelativeToolTip": "BankWebApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:16:29.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Admin\\UserManagement.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\Admin\\UserManagement.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Admin\\UserManagement.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\Admin\\UserManagement.cshtml",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAuwPYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T21:56:39.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankApiService.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Services\\BankApiService.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Services\\BankApiService.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Services\\BankApiService.cs",
+              "RelativeToolTip": "BankWebApp\\Services\\BankApiService.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAkwNAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:54:45.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:12:04.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Admin\\AdminProfile.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\Admin\\AdminProfile.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Admin\\AdminProfile.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\Admin\\AdminProfile.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T21:21:54.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Data\\DBManager.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Data\\DBManager.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Data\\DBManager.cs",
+              "RelativeToolTip": "BankWebService\\Data\\DBManager.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAewHEAAADOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:35:01.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AdminSidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Shared\\_AdminSidebar.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\Shared\\_AdminSidebar.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Shared\\_AdminSidebar.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\Shared\\_AdminSidebar.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T21:22:43.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurityLogs.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Admin\\SecurityLogs.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\Admin\\SecurityLogs.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Admin\\SecurityLogs.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\Admin\\SecurityLogs.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T23:48:35.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Admin\\TransactionManagement.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\Admin\\TransactionManagement.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Admin\\TransactionManagement.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\Admin\\TransactionManagement.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAwwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T23:32:47.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Models\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Models\\LogEntry.cs",
+              "RelativeToolTip": "BankWebApp\\Models\\LogEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:49:20.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Models\\Transaction.cs",
+              "RelativeToolTip": "BankWebApp\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:06:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BankWebApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAqwKsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:01:43.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fetchData.js",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\wwwroot\\js\\fetchData.js",
+              "RelativeDocumentMoniker": "BankWebApp\\wwwroot\\js\\fetchData.js",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\wwwroot\\js\\fetchData.js",
+              "RelativeToolTip": "BankWebApp\\wwwroot\\js\\fetchData.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-13T16:59:10.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\User\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\User\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\User\\UserProfile.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\User\\UserProfile.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T19:38:33.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_UserSidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Shared\\_UserSidebar.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\Shared\\_UserSidebar.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Shared\\_UserSidebar.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\Shared\\_UserSidebar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:26:55.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:26:31.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MoneyTransfer.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\User\\MoneyTransfer.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\User\\MoneyTransfer.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\User\\MoneyTransfer.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\User\\MoneyTransfer.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T20:48:02.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:17:36.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BankWebService.csproj",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\BankWebService.csproj",
+              "RelativeDocumentMoniker": "BankWebService\\BankWebService.csproj",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\BankWebService.csproj",
+              "RelativeToolTip": "BankWebService\\BankWebService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T06:15:58.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\User\\TransactionHistory.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\User\\TransactionHistory.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\User\\TransactionHistory.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\User\\TransactionHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T17:08:57.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "BankWebApp\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "BankWebApp\\wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAkwK8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T15:58:29.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Program.cs",
+              "RelativeToolTip": "BankWebApp\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:17:47.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\User\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "BankWebApp\\Views\\User\\UserDashboard.cshtml",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Views\\User\\UserDashboard.cshtml",
+              "RelativeToolTip": "BankWebApp\\Views\\User\\UserDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T17:08:42.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Models\\User.cs",
+              "RelativeToolTip": "BankWebService\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:35:49.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankWebApp\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\Models\\Account.cs",
+              "RelativeToolTip": "BankWebApp\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:06:04.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BankWebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BankWebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T16:25:50.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Models\\Account.cs",
+              "RelativeToolTip": "BankWebService\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:35:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BankWebService\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAArwH8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:28:18.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "BankWebService\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:28:27.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "BankWebService\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "BankWebService\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAUwBABAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-13T15:42:19.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Models\\Transaction.cs",
+              "RelativeToolTip": "BankWebService\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:35:43.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BankWebService\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:41:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BankWebService\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:28:36.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BankWebService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BankWebService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T14:43:07.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Program.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Program.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Program.cs",
+              "RelativeToolTip": "BankWebService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:42:29.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BankWebService\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebService\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankWebService\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:41:01.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

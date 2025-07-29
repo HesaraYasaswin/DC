@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVfyPKIAgOw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hesar\\OneDrive\\Desktop\\DC_A2(PartB)_20928386\\Assignment2_Part_A\\BankWebApp\\BankWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hesar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\hesar\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
