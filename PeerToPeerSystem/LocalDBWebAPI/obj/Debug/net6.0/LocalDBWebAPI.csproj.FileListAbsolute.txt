@@ -1,0 +1,464 @@
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.staticwebassets.runtime.json
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.exe
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.deps.json
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.runtimeconfig.json
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.AssemblyReference.cache
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfo.cs
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cache
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cs
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.LocalDBWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LocalDBWebAPI.props
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LocalDBWebAPI.props
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LocalDBWebAPI.props
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\bundle\LocalDBWebAPI.styles.css
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\LocalDBWebAPI.bundle.scp.css
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CopyComplete
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\refint\LocalDBWebAPI.dll
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.genruntimeconfig.cache
+C:\Users\283602K\source\repos\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\ref\LocalDBWebAPI.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.staticwebassets.runtime.json
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.exe
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.deps.json
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.runtimeconfig.json
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfo.cs
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cache
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cs
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.LocalDBWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LocalDBWebAPI.props
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LocalDBWebAPI.props
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LocalDBWebAPI.props
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\bundle\LocalDBWebAPI.styles.css
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\LocalDBWebAPI.bundle.scp.css
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CopyComplete
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\refint\LocalDBWebAPI.dll
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.genruntimeconfig.cache
+C:\Users\Owner\Downloads\LocalDBWeb\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\ref\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.exe
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.deps.json
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.LocalDBWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\bundle\LocalDBWebAPI.styles.css
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\LocalDBWebAPI.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBW.FE770E82.Up2Date
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\refint\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\DC\DB\LocalDBWeb(2)\LocalDBWeb\LocalDBWebAPI\obj\Debug\net6.0\ref\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.exe
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.deps.json
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.LocalDBWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\bundle\LocalDBWebAPI.styles.css
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\LocalDBWebAPI.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBW.FE770E82.Up2Date
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\refint\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\ref\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.exe
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.deps.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.LocalDBWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\bundle\LocalDBWebAPI.styles.css
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\LocalDBWebAPI.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBW.FE770E82.Up2Date
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\refint\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\ref\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.exe
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.deps.json
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.LocalDBWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\bundle\LocalDBWebAPI.styles.css
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\LocalDBWebAPI.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBW.FE770E82.Up2Date
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\refint\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\ref\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.exe
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.deps.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.LocalDBWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\bundle\LocalDBWebAPI.styles.css
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\LocalDBWebAPI.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBW.FE770E82.Up2Date
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\refint\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\ref\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.exe
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.deps.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.LocalDBWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LocalDBWebAPI.props
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\bundle\LocalDBWebAPI.styles.css
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\LocalDBWebAPI.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBW.FE770E82.Up2Date
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\refint\LocalDBWebAPI.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.pdb
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\LocalDBWebAPI.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\LocalDBWebAPI\obj\Debug\net6.0\ref\LocalDBWebAPI.dll

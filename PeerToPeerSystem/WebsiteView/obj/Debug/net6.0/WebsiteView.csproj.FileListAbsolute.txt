@@ -1,0 +1,108 @@
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.exe
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.deps.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\RestSharp.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\SharedLibrary.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.WebsiteView.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.build.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\bundle\WebsiteView.styles.css
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\projectbundle\WebsiteView.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteV.5BCDCC34.Up2Date
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\refint\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\ref\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.exe
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.deps.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\RestSharp.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\SharedLibrary.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.WebsiteView.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.build.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\bundle\WebsiteView.styles.css
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\projectbundle\WebsiteView.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteV.5BCDCC34.Up2Date
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\refint\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\ref\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\appsettings.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.staticwebassets.runtime.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.exe
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.deps.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.runtimeconfig.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\WebsiteView.pdb
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\RestSharp.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\bin\Debug\net6.0\SharedLibrary.pdb
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.AssemblyInfoInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.AssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.RazorAssemblyInfo.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.RazorAssemblyInfo.cs
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.WebsiteView.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.build.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebsiteView.props
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\bundle\WebsiteView.styles.css
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\scopedcss\projectbundle\WebsiteView.bundle.scp.css
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteV.5BCDCC34.Up2Date
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\refint\WebsiteView.dll
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.pdb
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\WebsiteView.genruntimeconfig.cache
+C:\Users\hesar\OneDrive\Desktop\DC_A2(PartC)_20928386\Tutorial 9\DC_Part_C\WebsiteView\obj\Debug\net6.0\ref\WebsiteView.dll

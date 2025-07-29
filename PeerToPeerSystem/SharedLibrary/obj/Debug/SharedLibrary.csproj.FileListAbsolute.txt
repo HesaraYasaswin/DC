@@ -1,0 +1,18 @@
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\DC\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\New folder (5)\DC\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\hesar\OneDrive\Desktop\New folder\Mine\Tutorial 9\DC_Part_C\SharedLibrary\obj\Debug\SharedLibrary.pdb

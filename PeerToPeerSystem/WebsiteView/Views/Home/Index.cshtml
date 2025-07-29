@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @using WebsiteView.Models
+    @model MyModel;
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <div id="cntTable" class="container mt-4">
+        <h3>Clients</h3>
+        <br />
+        <table id="tableClient" class="table table-bordered table-striped table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th>IP Address</th>
+                    <th>Port</th>
+                    <th>No. Completed Jobs</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var stat in Model.Stats)
+                {
+                    <tr>
+                        <td>@stat.Client?.IPAddress</td>
+                        <td>@stat.Client?.Port</td>
+                        <td>@stat.NumCompleted</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script language="javascript">
+    window.setTimeout(function () {
+        window.location.reload(1);
+    }, 5000);
+</script>
